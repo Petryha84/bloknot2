@@ -48,7 +48,6 @@ public class blok extends JDialog {
         }
     }
 
-
     private void onCancel() {
 
         dispose();
