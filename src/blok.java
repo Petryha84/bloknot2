@@ -29,7 +29,7 @@ public class blok extends JDialog {
             }
         });
 
-        // call onCancel() on ESCAPE
+        // 
         contentPane.registerKeyboardAction(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 onCancel();
